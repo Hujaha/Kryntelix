@@ -1,0 +1,12 @@
+"defaultHeaders": {
+      "Accept": "application/json",
+      "User-Agent": "Kilo-Code/4.99.1",
+      "HTTP-Referer": "https://kilocode.ai",
+      "X-Title": "Kilo Code",
+      "X-KiloCode-Version": "4.99.1",
+      "X-Stainless-Lang": "js",
+      "X-Stainless-Runtime": "node",
+      "X-Stainless-Package-Version": "5.12.2",
+      "X-Stainless-OS": "MacOS",
+      "X-Stainless-Arch": "arm64"
+    }
